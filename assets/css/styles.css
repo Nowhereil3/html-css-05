@@ -1207,6 +1207,12 @@ a {
   border-radius: 40px 40px 0 0;
 }
 
+.blog__item__content {
+  padding: 26px 10px 12px 20px;
+  transition: padding 0.25s ease;
+}
+
+
 .blog__btn {
   display: inline-block;
   min-width: 107px;

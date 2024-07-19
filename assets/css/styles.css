@@ -1209,9 +1209,7 @@ a {
 
 .blog__item__content {
   padding: 26px 10px 12px 20px;
-  transition: padding 0.25s ease;
 }
-
 
 .blog__btn {
   display: inline-block;
